@@ -1,0 +1,11 @@
+pkgbase = staplegl
+	pkgdesc = Header-only library for StapleGL
+	pkgver = 0.9.1
+	pkgrel = 1
+	url = https://github.com/dario-loi/staplegl
+	arch = any
+	license = MIT
+	source = https://github.com/dario-loi/staplegl.git#branch=v0.9.1
+	md5sums = 40b6dcd8367ea93a88c1bad14eeef090
+
+pkgname = staplegl
